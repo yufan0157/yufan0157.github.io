@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Yufan Zhang
+#[https://jemnz.com/ ] ([www@jemnz.com])
+~~~
+{}{img_left}{yufan_photo.jpg}{alt text}{120}{160}
+Postdoc,\n Department of Electrical and Computer Engineering, \n University of California San Diego \n
+E-mail: [yuz254@ucsd.edu]\n
+~~~
+
+== Biography
+I received bachelor's degree in electrical engineering from Chongqing University in 2017 and Ph.D. degree in electrical engineering from Shanghai Jiao Tong University in 2022.
+My research interests include demand response, energy forecasting, and decision-making under uncertainty.
+
+
+== News
+- Jan, 2023: Work on value-oriented prediction interval is revised and resubmitted to TSG; see it on [https://arxiv.org/abs/2210.04152 arxiv].
+- Jan, 2023: I am appointed as postdoc at University of California San Diego!
+- Dec, 2022: My paper on load forecasting is selected in Top Articles in Outstanding S&T Journals of China.
+- Nov, 2022: Work on adaptive prediction interval is accepted in TSG; see it on [https://arxiv.org/abs/2205.08698 arxiv].
+- Nov, 2022: Work on demand response targeting is submitted to IEEE TPWRS; see it on [https://arxiv.org/abs/2211.14806 arxiv].
+
+== Selected Honors & Awards
+- Outstanding PHD Graduate of Shanghai Jiao Tong University, 2022.
+- Shanghai Jiao Tong University Outstanding Doctoral Graduate Development Scholarship, 2022.
+- Outstanding PHD Student Scholarship, 2020.
+- Best Conference Paper of IEEE Power & Energy Society General Meeting, 2020.
+- Sieyuan Electrics Co. Scholarship, 2019
+- The Second Prize of “HUAWEI Cup” the 15th China Post-Graduate Mathematical Contest in Modeling, 2018.
+- Outstanding Undergraduate of Chongqing University, 2017.
+- Undergraduate National Scholarship, 2016.
+- China Yangtze Power Co. Scholarship, 2014.
+- Freshmen Scholarship of Chongqing University, 2013.
+- Excellent Student Scholarship of Chongqing University (Top 10%), 2013-2016.
